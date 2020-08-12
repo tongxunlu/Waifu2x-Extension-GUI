@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center"> Waifu2x-Extension-GUI </h2>
-
+###使用机器学习放大 图片/视频/GIF
 <h3 align="center"> Photo/Video/GIF enlargement using machine learning </h3>
 
 <p align="center">
